@@ -1,0 +1,17 @@
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\bin\Debug\net6.0-windows\event_handler.exe
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\bin\Debug\net6.0-windows\event_handler.deps.json
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\bin\Debug\net6.0-windows\event_handler.runtimeconfig.json
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\bin\Debug\net6.0-windows\event_handler.dll
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\bin\Debug\net6.0-windows\event_handler.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\event_handler.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\event_handler.Form1.resources
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\event_handler.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\event_handler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\event_handler.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\event_handler.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\event_handler.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\event_handler.dll
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\refint\event_handler.dll
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\event_handler.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\event_handler.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\5 лабораторная (обработчик событий)\event_handler\obj\Debug\net6.0-windows\ref\event_handler.dll
